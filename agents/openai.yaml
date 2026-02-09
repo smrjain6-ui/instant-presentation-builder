@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instant Presentation Builder"
+  short_description: "Build polished decks from text outlines"
+  default_prompt: "Create a professional PowerPoint deck from my outline using consulting-style design cues and strong visual hierarchy."
